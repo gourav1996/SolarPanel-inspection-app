@@ -116,7 +116,7 @@ rtsp://admin:admin%40123@192.168.1.1:554/stream
 Now, run the application by running the following command:
 
 ```sh
-./SolarPanel-inspection
+./SolarPanel-inspection-app
 ```
 
 Finally, add the url in `inputsources.txt` and start `./SolarPanel-inspection-app`.
