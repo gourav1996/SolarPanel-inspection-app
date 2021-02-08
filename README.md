@@ -126,4 +126,4 @@ Finally, add the url in `inputsources.txt` and start `./SolarPanel-inspection-ap
 
 * [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 * [Solar panel Thermography](http://www.murcal.com/pdf%20folder/15.testo_thermography_guide.pdf)
-* [HermesApp] (https://github.com/aj-ames/Hermes-Deepstream)
+* [HermesApp](https://github.com/aj-ames/Hermes-Deepstream)
