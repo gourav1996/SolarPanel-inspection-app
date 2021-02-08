@@ -16,7 +16,7 @@ production of neighboring cells.
 Panels might be non-functioning due to miswired panels or worn/defective cables. This condition is indicated when the entire panel is hotter
 when compared to others.
 
-![Common defects] (resources/solarPanelDefects.png)
+![Common defects](resources/solarPanelDefects.png)
 
 To do the preventive maintenance SolarPanel-inspection-app can help in detection of defected panels.
 ![Solar Panel Thermal Image](resources/solarpanelThermalImage.png)
