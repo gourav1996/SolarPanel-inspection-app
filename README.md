@@ -6,12 +6,13 @@ Thermal imaging helps to identify mismatched panels where high performing module
 
 The solar panel hotspots create two
 issues:
-• Fall in overall power production
- since cells consume power
- instead of producing.
-• Power consumption continues
-to heat up cells and affect the
-production of neighboring cells.
+ • Fall in overall power production
+  since cells consume power
+  instead of producing.
+
+ • Power consumption continues
+ to heat up cells and affect the
+ production of neighboring cells.
 ## 
 Panels might be non-functioning due to miswired panels or worn/defective cables. This condition is indicated when the entire panel is hotter
 when compared to others.
