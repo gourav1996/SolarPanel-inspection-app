@@ -6,6 +6,7 @@ Thermal imaging helps to identify mismatched panels where high performing module
 
 The solar panel hotspots create two
 issues:
+
  • Fall in overall power production
   since cells consume power
   instead of producing.
