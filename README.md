@@ -17,8 +17,9 @@ issues:
 ## 
 Panels might be non-functioning due to miswired panels or worn/defective cables. This condition is indicated when the entire panel is hotter
 when compared to others.
-
 Some Common defects:
+
+
 ![Common defects](resources/solarPanelDefects.png)
 
 To do the preventive maintenance SolarPanel-inspection-app can help in detection of defected panels.
