@@ -87,7 +87,7 @@ Next, clone the repository
 
 ```sh
 # Using HTTPS
-git clone https://github.com/aj-ames/Hermes-Deepstream.git
+git clone https://github.com/gourav1996/SolarPanel-inspection-app
 
 #```
 
