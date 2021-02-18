@@ -38,11 +38,11 @@ To do the preventive maintenance SolarPanel-inspection-app can help in detection
     
 ## Introduction
 
-Hermes Application consists of two parts. An Intelligent Video Analytics Pipeline powered by Deepstream and NVIDIA Jetson Xavier NX and a reconnaissance drone, for which I have used a Ryze Tello.
+An Intelligent Video Analytics Pipeline powered by Deepstream and NVIDIA Jetson Xavier NX. 
 
 ![Jetson Nx](resources/processed.jpeg)
 
-This project is a proof-of-concept, trying to show that surveillance and mapping of wildfires can be done with a drone and an onboard Jetson platform.
+This project is a proof-of-concept, trying to findout the defects on the solar panel.
 
 ## Deepstream Setup
 
